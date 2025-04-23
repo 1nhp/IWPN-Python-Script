@@ -32,7 +32,4 @@ Stands For, Incredibly Lightweight Power Notify is my first ever python script, 
 # Installation
 
 ### 1 Run this command
-    sh -c "$(curl -fsSL )"
-
-### 2 Move the scripts data and config theme files to ./local/iwpn
-    mv # oiss
+    sh -c "$(curl -fsSL https://raw.githubusercontent.com/1nhp/IWPN-Python-Script/refs/heads/release/install.sh)"
