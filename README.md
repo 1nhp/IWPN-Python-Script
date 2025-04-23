@@ -36,8 +36,3 @@ Stands For, Incredibly Lightweight Power Notify is my first ever python script, 
 
 ### 2 Move the scripts data and config theme files to ./local/iwpn
     mv # oi
-# oi
-# oi
-# oi
-# oi
-# oi
