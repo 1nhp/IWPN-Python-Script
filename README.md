@@ -31,5 +31,28 @@ Stands For, Incredibly Lightweight Power Notify is my first ever python script, 
 
 # Installation
 
-### 1 Run this command
+### 1 Run this command in your terminal
     sh -c "$(curl -fsSL https://raw.githubusercontent.com/1nhp/IWPN-Python-Script/refs/heads/release/install.sh)"
+
+### 2 Add the script to autostart in dwm at .local/dwm/autostart.sh for now
+    python ~/.local/bin/iwpn/init.py
+### or just execute it
+    python ~/.local/bin/iwpn/init.py
+  > # NOTE
+  > I may provide making the script autostart at boot for other wms aswell
+
+
+# Istalling Sound Themes
+
+### 1 Download the zip file of the theme in my themes repository
+
+### My themes repository link is ![] Here!
+
+### 2 Open it with preferred archiving program xarchiver in my case
+
+### 3 Extract the theme folder to ~./local/bin/ipwn/data/sound_themes/
+
+# Making Sound themes
+
+bca im too lazy to make an tutorial on it for not i'll make an tutorial on that later!
+
