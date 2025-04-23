@@ -56,3 +56,10 @@ Stands For, Incredibly Lightweight Power Notify is my first ever python script, 
 
 bca im too lazy to make an tutorial on it for not i'll make an tutorial on that later!
 
+# Roadmap
+
+- Custom icons for battery for dunst notification daemon
+- Make version for Windows
+- Make version For Android (someday not soon!)
+- Try to adopt for Linux basis usage
+- Be able to play sounds on different speaker e.g laptop speaker while it doesnt play on the headphone
