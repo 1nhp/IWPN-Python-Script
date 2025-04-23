@@ -62,4 +62,4 @@ bca im too lazy to make an tutorial on it for not i'll make an tutorial on that 
 - Make version for Windows
 - Make version For Android (someday not soon!)
 - Try to adopt for Linux basis usage
-- Be able to play sounds on different speaker e.g laptop speaker while it doesnt play on the headphones
+- Be able to play sounds on different speaker e.g laptop speaker while it doesnt play on the headphoness
