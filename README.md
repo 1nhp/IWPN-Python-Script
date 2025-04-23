@@ -35,4 +35,4 @@ Stands For, Incredibly Lightweight Power Notify is my first ever python script, 
     sh -c "$(curl -fsSL )"
 
 ### 2 Move the scripts data and config theme files to ./local/iwpn
-    mv # ois
+    mv # oiss
