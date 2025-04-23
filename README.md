@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="160" src="iwpn-icon.svg">
+  <img width="160" src="iwpn-icon.png">
   <p align="center" style="color:rgb(170, 170, 170);"><i>Icon made by me</i></p>
   <hr>
 </p>
