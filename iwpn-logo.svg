@@ -1,0 +1,10 @@
+<svg width="640" height="320" version="1.1" viewBox="0 0 169.33 84.667" xmlns="http://www.w3.org/2000/svg">
+ <g>
+  <g transform="matrix(.94666 0 0 .94666 -11.354 5.4228)" stroke-width="1.7">
+   <rect x="20.661" y="10.222" width="26.411" height="47.289" ry="2.8301" fill="#00f82f"/>
+   <path d="m37.14 21.881-9.1989 12.754 3.7636 0.0041 0.04496 11.804 8.5173-12.315-3.2308-0.01447z" fill="#fff"/>
+  </g>
+  <text transform="skewX(-13.746)" x="55.308544" y="59.865875" fill="#00f82f" font-size="44.871px" stroke-width="5.9054" xml:space="preserve"><tspan x="55.308544" y="59.865875" font-family="FreeSans" font-size="44.871px" stroke-width="5.9054">IWPN</tspan></text>
+  <text transform="skewX(-13.746)" x="100.95996" y="70.478813" fill="#00f82f" font-size="6.4106px" stroke-width=".84369" xml:space="preserve"><tspan x="100.95996" y="70.478813" font-family="FreeSans" font-size="6.4106px" stroke-width=".84369">*maybe not*</tspan></text>
+ </g>
+</svg>
