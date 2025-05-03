@@ -23,5 +23,4 @@ def message(reason):
 def play_sound(file):
     # Load sound using Simple audio
     snd = sa.WaveObject.from_wave_file(sound_theme + file)
-    time.sleep(0.1)
     play_obj = snd.play()
