@@ -6,6 +6,7 @@ while True:
     battery = psutil.sensors_battery()
     status = battery.power_plugged
     percentage = battery.percent
+    
     # Check if the device is plugged in
     if status == None and last_status != None:
         message(reason = 1)

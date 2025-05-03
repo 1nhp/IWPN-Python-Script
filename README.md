@@ -46,7 +46,7 @@ Stands For, Incredibly Lightweight Power Notify is my first ever python script, 
 
 ### 1 Download the zip file of the theme in my themes repository
 
-### My themes repository link is ![] Here!
+### My themes repository link is [HERE!](https://github.com/1nhp/IWPN-Sound-Themes)
 
 ### 2 Open it with preferred archiving program xarchiver in my case
 
